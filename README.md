@@ -1,0 +1,1 @@
+bookmarklets PL [HERE](https://sites.google.com/view/bookmarklets-m7400/strona-g%C5%82%C3%B3wna)!
