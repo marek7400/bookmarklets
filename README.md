@@ -2,7 +2,7 @@ bookmarklets PL [HERE](https://sites.google.com/view/bookmarklets-m7400/strona-g
 
 Bookmarklets:
 
-Archive-Paywall
+1. Archive-Paywall
 What it does: Sends the page to archive.ph, allows you to see the archived version of the page (useful as it disappeared from the web) or bypass the paywall (I don't know how long, but it works for now on Wyborcza.pl and Onet Premium paywall)
 
 2. remove Simple Paywall
