@@ -59,4 +59,8 @@ What it does: Adds a yellow progress bar permanently visible at the bottom of th
 What it does: Copies the text to the clipboard WITHOUT FORMATING (until you reload the page again). Useful when copying text from the Internet to e-mail or Word.
 
 19. blur remove
-What it does: Removes blurry text (security) on the https://lenso.ai search page (and maybe on other pages too). 
+What it does: Removes blurry text (security) on the https://lenso.ai search page (and maybe on other pages too).
+
+20. URL Shortener
+It will automatically copy the shortened link (TinyURL) to the clipboard.
+
