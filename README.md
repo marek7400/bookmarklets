@@ -64,3 +64,8 @@ What it does: Removes blurry text (security) on the https://lenso.ai search page
 20. URL Shortener
 It will automatically copy the shortened link (TinyURL) to the clipboard.
 
+21. EnableALL
+Activation of locked form fields.
+Revealing hidden elements.
+Enabling interactivity of elements.
+
