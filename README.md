@@ -1,5 +1,20 @@
 bookmarklets code (PL info)  [HERE](https://sites.google.com/view/bookmarklets-m7400/strona-g%C5%82%C3%B3wna)!
 
+Bookmarklet (also known as favlet or favelet) – a small script written in JavaScript and stored as a bookmark URL in a web browser or as a link on a website. The script is executed when the user clicks on the special bookmark.
+Bookmarklets extend the standard capabilities of a browser, similar to extensions, but unlike extensions, they do not use elevated privileges to run JavaScript code — the execution context of a bookmarklet is the currently viewed web page, making bookmarklets safer to use than extensions.
+
+Scriptbookmarks are also useful on company or university computers, where the ability to install extensions/plugins from the Chrome store is blocked.
+This can also be useful in Android browsers that do not support plugins.
+
+***
+Skryptozakładka (ang. bookmarklet, favlet, favelet) – niewielki skrypt napisany w języku JavaScript przechowywany jako adres URL zakładki w przeglądarce internetowej lub jako adres odsyłacza na stronie internetowej. Skrypt ten uruchamiany jest w momencie kliknięcia takiej specjalnej zakładki.
+Skryptozakładki rozszerzają standardowe możliwości przeglądarki, podobnie jak rozszerzenia, ale w przeciwieństwie do nich nie korzystają z podwyższonych przywilejów uruchamiania kodu JavaScript — kontekstem wykonania skryptozakładki jest oglądana właśnie strona WWW, dzięki czemu używanie bookmarkletów jest bezpieczniejsze niż korzystanie z rozszerzeń.
+
+Skryptozakładki - przydają się też na komputerach firmowych czy uczelnianych, gdzie mamy zablokowaną możliwość instalowania rozszerzeń/wtyczek ze sklepu Chrome.
+Może się to przydać również w przeglądarce na Androidzie nieobsługujących wtyczek.
+***
+
+
 Bookmarklets:
 
 1. Archive-Paywall
